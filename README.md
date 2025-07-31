@@ -8,7 +8,7 @@ I’m a front-end developer who loves creating clean, simple, and useful website
 - 🤝 Open to working with others on cool front-end projects  
 
 🛠 Skills
-- HTML / CSS / JS  
+- HTML / CSS / SCSS / JS / REACT
 - Git & GitHub  
 - Building responsive layouts  
 - Clean and readable code
